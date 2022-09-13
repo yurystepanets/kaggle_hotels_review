@@ -2,13 +2,20 @@
 # DataScience Project 1. Pandas/Visualization/DataCleaning
 
 ## Content  
-[1. Description](.README.md#Description)  
-[2. How to start](.README.md#How-to-start)  
-[3. Check results](.README.md#Check-results)  
+[1. Description](.README.md#Description) 
+[2. Description](.README.md#kaggle) 
+yuriystepanets 
+[3. How to start](.README.md#How-to-start)  
+[4. Check results](.README.md#Check-results)  
 
 ### Description    
 PROJECT-3 EDA + Feature Engeneering + Kaggle competiotion
 Kaggle competition to solve hotel rating prediction task
+
+### Description    
+
+https://www.kaggle.com/code/yuriystepanets/bookinghotels-aerohex
+MAPE: 13.21417 
 
 ### How to start up project    
  1. Restore Conda environment:
